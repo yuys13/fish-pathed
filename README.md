@@ -1,11 +1,11 @@
-# pathed.fish
+# fish-pathed
 
 Edit `$fish_user_paths` with your editor!
 
 ## Install
 
 ```fish
-fisher install yuys13/pathed.fish
+fisher install yuys13/fish-pathed
 ```
 
 ## Usage
